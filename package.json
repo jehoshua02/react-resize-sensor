@@ -1,0 +1,29 @@
+{
+  "name": "react-resize-sensor",
+  "version": "1.0.0",
+  "description": "Resize Sensor for React Components",
+  "main": "ResizeSensor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jehoshua02/react-resize-sensor.git"
+  },
+  "keywords": [
+    "react",
+    "resize",
+    "sensor",
+    "element",
+    "query"
+  ],
+  "author": "Joshua Stoutenburg <jehoshua02@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jehoshua02/react-resize-sensor/issues"
+  },
+  "homepage": "https://github.com/jehoshua02/react-resize-sensor#readme",
+  "dependencies": {
+    "react": "^0.14.3"
+  }
+}
