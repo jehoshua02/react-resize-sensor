@@ -1,6 +1,6 @@
 {
   "name": "react-resize-sensor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Resize Sensor for React Components",
   "main": "ResizeSensor.js",
   "scripts": {
