@@ -15,6 +15,7 @@ var ResizeSensor = React.createClass({
         zIndex: -1,
         top: 0,
         left: 0,
+        pointerEvents: "none",
       }} />
     );
   },
